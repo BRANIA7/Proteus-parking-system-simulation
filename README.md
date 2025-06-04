@@ -52,7 +52,7 @@ This project simulates a smart parking system using Proteus 8 Professional and A
 ## 📁 Files Included
 
 - `Automated toll arduino.pdsprj` – Proteus project file
-- `.png` – Schematic screenshot
+
 - Source code (to be added or linked if applicable)
 
 ---
